@@ -6,7 +6,7 @@ Adds Extra Functionality to Equipping in RPG Maker MZ.
 
 ## What It Does
 
-Notetags.
+PSYCHRONIC_MegaEquipMZ.js.
 
 ## Plugin File
 
@@ -23,6 +23,8 @@ Notetags.
 4. Configure any plugin parameters or commands listed below.
 
 ## Full Plugin Help
+
+PSYCHRONIC_MegaEquipMZ.js
 
 ### Notetags
 
