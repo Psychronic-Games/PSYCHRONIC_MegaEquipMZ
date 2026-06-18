@@ -2,13 +2,14 @@
 
 Adds Extra Functionality to Equipping in RPG Maker MZ.
 
-## What This Is
+## What It Does
 
-This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
+Notetags.
 
-## Plugin File
+## Compatibility
 
-- `PSYCHRONIC_MegaEquipMZ.js`
+- RPG Maker MZ
+- JavaScript plugin for `js/plugins/`
 
 ## Installation
 
@@ -23,6 +24,8 @@ This version was exported from the RPG Reactor Complex template source plugin fo
 ## Author
 
 Psychronic
+
+https://psychronic.itch.io
 
 ## License
 
